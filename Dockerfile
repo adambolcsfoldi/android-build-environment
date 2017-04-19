@@ -28,11 +28,6 @@ RUN apt-get install -y \
   gcc \
   git \
   groff \
-  qemu-kvm \
-  libvirt-bin \
-  bridge-utils \
-  ubuntu-vm-builder \
-  ia32-libs-multiarch \
   lib32stdc++6 \
   lib32z1 \
   lib32z1-dev \
